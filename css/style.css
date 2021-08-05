@@ -1,0 +1,23 @@
+@font-face{
+    font-family:Roboto-Medium ;
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face{
+    font-family:Roboto-Regular ;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+*{
+    font-size: 16px;
+    color: #010101 !important;
+}
+h1,h2,h3,h4,h5,h6,a,button{
+    font-family: Roboto-Medium;
+    font-weight: 500;
+}
+p,span{
+    font-family: Roboto-Regular;
+    font-weight: 400;
+}
+img{
+    width: 100%;
+}
